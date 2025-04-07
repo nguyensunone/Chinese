@@ -1,0 +1,24 @@
+{
+    "lessons": [
+        {
+            "name": "TQCB_01_xiaoxiao.json",
+            "mapping": "mapping_TQCB_01_xiaoxiao.json",
+            "audio": "audio_TQCB_01_xiaoxiao"
+        },
+        {
+            "name": "TQCB_02_yunjian.json",
+            "mapping": "mapping_TQCB_02_yunjian.json",
+            "audio": "audio_TQCB_02_yunjian"
+        },
+        {
+            "name": "TQCB_01_yunjian.json",
+            "mapping": "mapping_TQCB_01_yunjian.json",
+            "audio": "audio_TQCB_01_yunjian"
+        },
+        {
+            "name": "TQCB_02_xiaoxiao.json",
+            "mapping": "mapping_TQCB_02_xiaoxiao.json",
+            "audio": "audio_TQCB_02_xiaoxiao"
+        }
+    ]
+}

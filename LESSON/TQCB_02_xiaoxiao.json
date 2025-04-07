@@ -1,0 +1,802 @@
+[
+    [
+        "红色",
+        "hóng sè",
+        "Màu đỏ",
+        "红色",
+        "hóng sè",
+        "Màu đỏ"
+    ],
+    [
+        "蓝色",
+        "lán sè",
+        "Màu xanh dương",
+        "蓝色",
+        "lán sè",
+        "Màu xanh dương"
+    ],
+    [
+        "绿色",
+        "lǜ sè",
+        "Màu xanh lá",
+        "绿色",
+        "lǜ sè",
+        "Màu xanh lá"
+    ],
+    [
+        "黄色",
+        "huáng sè",
+        "Màu vàng",
+        "黄色",
+        "huáng sè",
+        "Màu vàng"
+    ],
+    [
+        "黑色",
+        "hēi sè",
+        "Màu đen",
+        "黑色",
+        "hēi sè",
+        "Màu đen"
+    ],
+    [
+        "白色",
+        "bái sè",
+        "Màu trắng",
+        "白色",
+        "bái sè",
+        "Màu trắng"
+    ],
+    [
+        "橙色",
+        "chéng sè",
+        "Màu cam",
+        "橙色",
+        "chéng sè",
+        "Màu cam"
+    ],
+    [
+        "紫色",
+        "zǐ sè",
+        "Màu tím",
+        "紫色",
+        "zǐ sè",
+        "Màu tím"
+    ],
+    [
+        "棕色",
+        "zōng sè",
+        "Màu nâu",
+        "棕色",
+        "zōng sè",
+        "Màu nâu"
+    ],
+    [
+        "灰色",
+        "huī sè",
+        "Màu xám",
+        "灰色",
+        "huī sè",
+        "Màu xám"
+    ],
+    [
+        "爸爸",
+        "bà ba",
+        "Bố",
+        "爸爸",
+        "bà ba",
+        "Bố"
+    ],
+    [
+        "妈妈",
+        "mā ma",
+        "Mẹ",
+        "妈妈",
+        "mā ma",
+        "Mẹ"
+    ],
+    [
+        "哥哥",
+        "gē ge",
+        "Anh trai",
+        "哥哥",
+        "gē ge",
+        "Anh trai"
+    ],
+    [
+        "姐姐",
+        "jiě jie",
+        "Chị gái",
+        "姐姐",
+        "jiě jie",
+        "Chị gái"
+    ],
+    [
+        "弟弟",
+        "dì di",
+        "Em trai",
+        "弟弟",
+        "dì di",
+        "Em trai"
+    ],
+    [
+        "妹妹",
+        "mèi mei",
+        "Em gái",
+        "妹妹",
+        "mèi mei",
+        "Em gái"
+    ],
+    [
+        "爷爷",
+        "yé ye",
+        "Ông (nội)",
+        "爷爷",
+        "yé ye",
+        "Ông (nội)"
+    ],
+    [
+        "奶奶",
+        "nǎi nai",
+        "Bà (nội)",
+        "奶奶",
+        "nǎi nai",
+        "Bà (nội)"
+    ],
+    [
+        "外公",
+        "wài gōng",
+        "Ông (ngoại)",
+        "外公",
+        "wài gōng",
+        "Ông (ngoại)"
+    ],
+    [
+        "外婆",
+        "wài pó",
+        "Bà (ngoại)",
+        "外婆",
+        "wài pó",
+        "Bà (ngoại)"
+    ],
+    [
+        "汽车",
+        "qì chē",
+        "Ô tô",
+        "汽车",
+        "qì chē",
+        "Ô tô"
+    ],
+    [
+        "公共汽车",
+        "gōng gòng qì chē",
+        "Xe buýt",
+        "公共汽车",
+        "gōng gòng qì chē",
+        "Xe buýt"
+    ],
+    [
+        "自行车",
+        "zì xíng chē",
+        "Xe đạp",
+        "自行车",
+        "zì xíng chē",
+        "Xe đạp"
+    ],
+    [
+        "摩托车",
+        "mó tuō chē",
+        "Xe máy",
+        "摩托车",
+        "mó tuō chē",
+        "Xe máy"
+    ],
+    [
+        "出租车",
+        "chū zū chē",
+        "Taxi",
+        "出租车",
+        "chū zū chē",
+        "Taxi"
+    ],
+    [
+        "火车",
+        "huǒ chē",
+        "Tàu hỏa",
+        "火车",
+        "huǒ chē",
+        "Tàu hỏa"
+    ],
+    [
+        "地铁",
+        "dì tiě",
+        "Tàu điện ngầm",
+        "地铁",
+        "dì tiě",
+        "Tàu điện ngầm"
+    ],
+    [
+        "飞机",
+        "fēi jī",
+        "Máy bay",
+        "飞机",
+        "fēi jī",
+        "Máy bay"
+    ],
+    [
+        "轮船",
+        "lún chuán",
+        "Tàu thủy",
+        "轮船",
+        "lún chuán",
+        "Tàu thủy"
+    ],
+    [
+        "走路",
+        "zǒu lù",
+        "Đi bộ",
+        "走路",
+        "zǒu lù",
+        "Đi bộ"
+    ],
+    [
+        "学校",
+        "xué xiào",
+        "Trường học",
+        "学校",
+        "xué xiào",
+        "Trường học"
+    ],
+    [
+        "医院",
+        "yī yuàn",
+        "Bệnh viện",
+        "医院",
+        "yī yuàn",
+        "Bệnh viện"
+    ],
+    [
+        "超市",
+        "chāo shì",
+        "Siêu thị",
+        "超市",
+        "chāo shì",
+        "Siêu thị"
+    ],
+    [
+        "银行",
+        "yín háng",
+        "Ngân hàng",
+        "银行",
+        "yín háng",
+        "Ngân hàng"
+    ],
+    [
+        "饭店",
+        "fàn diàn",
+        "Nhà hàng",
+        "饭店",
+        "fàn diàn",
+        "Nhà hàng"
+    ],
+    [
+        "邮局",
+        "yóu jú",
+        "Bưu điện",
+        "邮局",
+        "yóu jú",
+        "Bưu điện"
+    ],
+    [
+        "商店",
+        "shāng diàn",
+        "Cửa hàng",
+        "商店",
+        "shāng diàn",
+        "Cửa hàng"
+    ],
+    [
+        "公园",
+        "gōng yuán",
+        "Công viên",
+        "公园",
+        "gōng yuán",
+        "Công viên"
+    ],
+    [
+        "图书馆",
+        "tú shū guǎn",
+        "Thư viện",
+        "图书馆",
+        "tú shū guǎn",
+        "Thư viện"
+    ],
+    [
+        "电影院",
+        "diàn yǐng yuàn",
+        "Rạp chiếu phim",
+        "电影院",
+        "diàn yǐng yuàn",
+        "Rạp chiếu phim"
+    ],
+    [
+        "高",
+        "gāo",
+        "Cao",
+        "高",
+        "gāo",
+        "Cao"
+    ],
+    [
+        "矮",
+        "ǎi",
+        "Thấp",
+        "矮",
+        "ǎi",
+        "Thấp"
+    ],
+    [
+        "胖",
+        "pàng",
+        "Béo",
+        "胖",
+        "pàng",
+        "Béo"
+    ],
+    [
+        "瘦",
+        "shòu",
+        "Gầy",
+        "瘦",
+        "shòu",
+        "Gầy"
+    ],
+    [
+        "美丽",
+        "měi lì",
+        "Đẹp",
+        "美丽",
+        "měi lì",
+        "Đẹp"
+    ],
+    [
+        "帅",
+        "shuài",
+        "Đẹp trai",
+        "帅",
+        "shuài",
+        "Đẹp trai"
+    ],
+    [
+        "聪明",
+        "cōng míng",
+        "Thông minh",
+        "聪明",
+        "cōng míng",
+        "Thông minh"
+    ],
+    [
+        "努力",
+        "nǔ lì",
+        "Chăm chỉ",
+        "努力",
+        "nǔ lì",
+        "Chăm chỉ"
+    ],
+    [
+        "懒惰",
+        "lǎn duò",
+        "Lười biếng",
+        "懒惰",
+        "lǎn duò",
+        "Lười biếng"
+    ],
+    [
+        "友好",
+        "yǒu hǎo",
+        "Thân thiện",
+        "友好",
+        "yǒu hǎo",
+        "Thân thiện"
+    ],
+    [
+        "唱歌",
+        "chàng gē",
+        "Hát",
+        "唱歌",
+        "chàng gē",
+        "Hát"
+    ],
+    [
+        "跳舞",
+        "tiào wǔ",
+        "Nhảy",
+        "跳舞",
+        "tiào wǔ",
+        "Nhảy"
+    ],
+    [
+        "画画",
+        "huà huà",
+        "Vẽ tranh",
+        "画画",
+        "huà huà",
+        "Vẽ tranh"
+    ],
+    [
+        "读书",
+        "dú shū",
+        "Đọc sách",
+        "读书",
+        "dú shū",
+        "Đọc sách"
+    ],
+    [
+        "上网",
+        "shàng wǎng",
+        "Lướt web",
+        "上网",
+        "shàng wǎng",
+        "Lướt web"
+    ],
+    [
+        "看电视",
+        "kàn diàn shì",
+        "Xem TV",
+        "看电视",
+        "kàn diàn shì",
+        "Xem TV"
+    ],
+    [
+        "旅游",
+        "lǚ yóu",
+        "Du lịch",
+        "旅游",
+        "lǚ yóu",
+        "Du lịch"
+    ],
+    [
+        "购物",
+        "gòu wù",
+        "Mua sắm",
+        "购物",
+        "gòu wù",
+        "Mua sắm"
+    ],
+    [
+        "运动",
+        "yùn dòng",
+        "Thể thao",
+        "运动",
+        "yùn dòng",
+        "Thể thao"
+    ],
+    [
+        "听音乐",
+        "tīng yīn yuè",
+        "Nghe nhạc",
+        "听音乐",
+        "tīng yīn yuè",
+        "Nghe nhạc"
+    ],
+    [
+        "米饭",
+        "mǐ fàn",
+        "Cơm",
+        "米饭",
+        "mǐ fàn",
+        "Cơm"
+    ],
+    [
+        "面条",
+        "miàn tiáo",
+        "Mì",
+        "面条",
+        "miàn tiáo",
+        "Mì"
+    ],
+    [
+        "包子",
+        "bāo zi",
+        "Bánh bao",
+        "包子",
+        "bāo zi",
+        "Bánh bao"
+    ],
+    [
+        "饺子",
+        "jiǎo zi",
+        "Há cảo",
+        "饺子",
+        "jiǎo zi",
+        "Há cảo"
+    ],
+    [
+        "鸡蛋",
+        "jī dàn",
+        "Trứng",
+        "鸡蛋",
+        "jī dàn",
+        "Trứng"
+    ],
+    [
+        "牛奶",
+        "niú nǎi",
+        "Sữa",
+        "牛奶",
+        "niú nǎi",
+        "Sữa"
+    ],
+    [
+        "果汁",
+        "guǒ zhī",
+        "Nước hoa quả",
+        "果汁",
+        "guǒ zhī",
+        "Nước hoa quả"
+    ],
+    [
+        "啤酒",
+        "pí jiǔ",
+        "Bia",
+        "啤酒",
+        "pí jiǔ",
+        "Bia"
+    ],
+    [
+        "水",
+        "shuǐ",
+        "Nước",
+        "水",
+        "shuǐ",
+        "Nước"
+    ],
+    [
+        "茶",
+        "chá",
+        "Trà",
+        "茶",
+        "chá",
+        "Trà"
+    ],
+    [
+        "你好吗？",
+        "nǐ hǎo ma?",
+        "Bạn khỏe không?",
+        "你好吗？",
+        "nǐ hǎo ma?",
+        "Bạn khỏe không?"
+    ],
+    [
+        "你叫什么名字？",
+        "nǐ jiào shén me míng zi?",
+        "Bạn tên là gì?",
+        "你叫什么名字？",
+        "nǐ jiào shén me míng zi?",
+        "Bạn tên là gì?"
+    ],
+    [
+        "你几岁？",
+        "nǐ jǐ suì?",
+        "Bạn bao nhiêu tuổi?",
+        "你几岁？",
+        "nǐ jǐ suì?",
+        "Bạn bao nhiêu tuổi?"
+    ],
+    [
+        "你来自哪里？",
+        "nǐ lái zì nǎ lǐ?",
+        "Bạn đến từ đâu?",
+        "你来自哪里？",
+        "nǐ lái zì nǎ lǐ?",
+        "Bạn đến từ đâu?"
+    ],
+    [
+        "你会说中文吗？",
+        "nǐ huì shuō zhōng wén ma?",
+        "Bạn biết nói tiếng Trung không?",
+        "你会说中文吗？",
+        "nǐ huì shuō zhōng wén ma?",
+        "Bạn biết nói tiếng Trung không?"
+    ],
+    [
+        "这是什么？",
+        "zhè shì shén me?",
+        "Cái này là gì?",
+        "这是什么？",
+        "zhè shì shén me?",
+        "Cái này là gì?"
+    ],
+    [
+        "多少钱？",
+        "duō shǎo qián?",
+        "Bao nhiêu tiền?",
+        "多少钱？",
+        "duō shǎo qián?",
+        "Bao nhiêu tiền?"
+    ],
+    [
+        "几点了？",
+        "jǐ diǎn le?",
+        "Mấy giờ rồi?",
+        "几点了？",
+        "jǐ diǎn le?",
+        "Mấy giờ rồi?"
+    ],
+    [
+        "你在做什么？",
+        "nǐ zài zuò shén me?",
+        "Bạn đang làm gì?",
+        "你在做什么？",
+        "nǐ zài zuò shén me?",
+        "Bạn đang làm gì?"
+    ],
+    [
+        "可以帮我吗？",
+        "kě yǐ bāng wǒ ma?",
+        "Bạn có thể giúp tôi không?",
+        "可以帮我吗？",
+        "kě yǐ bāng wǒ ma?",
+        "Bạn có thể giúp tôi không?"
+    ],
+    [
+        "请坐",
+        "qǐng zuò",
+        "Mời ngồi",
+        "请坐",
+        "qǐng zuò",
+        "Mời ngồi"
+    ],
+    [
+        "请进",
+        "qǐng jìn",
+        "Mời vào",
+        "请进",
+        "qǐng jìn",
+        "Mời vào"
+    ],
+    [
+        "请说",
+        "qǐng shuō",
+        "Mời nói",
+        "请说",
+        "qǐng shuō",
+        "Mời nói"
+    ],
+    [
+        "请再说一遍",
+        "qǐng zài shuō yí biàn",
+        "Làm ơn nói lại lần nữa",
+        "请再说一遍",
+        "qǐng zài shuō yí biàn",
+        "Làm ơn nói lại lần nữa"
+    ],
+    [
+        "请等一下",
+        "qǐng děng yí xià",
+        "Làm ơn đợi một chút",
+        "请等一下",
+        "qǐng děng yí xià",
+        "Làm ơn đợi một chút"
+    ],
+    [
+        "跟我来",
+        "gēn wǒ lái",
+        "Theo tôi",
+        "跟我来",
+        "gēn wǒ lái",
+        "Theo tôi"
+    ],
+    [
+        "看这里",
+        "kàn zhè lǐ",
+        "Nhìn vào đây",
+        "看这里",
+        "kàn zhè lǐ",
+        "Nhìn vào đây"
+    ],
+    [
+        "别说话",
+        "bié shuō huà",
+        "Đừng nói chuyện",
+        "别说话",
+        "bié shuō huà",
+        "Đừng nói chuyện"
+    ],
+    [
+        "安静",
+        "ān jìng",
+        "Yên lặng",
+        "安静",
+        "ān jìng",
+        "Yên lặng"
+    ],
+    [
+        "开始",
+        "kāi shǐ",
+        "Bắt đầu",
+        "开始",
+        "kāi shǐ",
+        "Bắt đầu"
+    ],
+    [
+        "我要买这个",
+        "wǒ yào mǎi zhè ge",
+        "Tôi muốn mua cái này",
+        "我要买这个",
+        "wǒ yào mǎi zhè ge",
+        "Tôi muốn mua cái này"
+    ],
+    [
+        "多少钱？",
+        "duō shǎo qián?",
+        "Bao nhiêu tiền?",
+        "多少钱？",
+        "duō shǎo qián?",
+        "Bao nhiêu tiền?"
+    ],
+    [
+        "太贵了",
+        "tài guì le",
+        "Đắt quá",
+        "太贵了",
+        "tài guì le",
+        "Đắt quá"
+    ],
+    [
+        "便宜一点",
+        "pián yi yì diǎn",
+        "Giảm giá một chút",
+        "便宜一点",
+        "pián yi yì diǎn",
+        "Giảm giá một chút"
+    ],
+    [
+        "有没有别的？",
+        "yǒu méi yǒu bié de?",
+        "Có cái khác không?",
+        "有没有别的？",
+        "yǒu méi yǒu bié de?",
+        "Có cái khác không?"
+    ],
+    [
+        "我可以试试吗？",
+        "wǒ kě yǐ shì shi ma?",
+        "Tôi có thể thử không?",
+        "我可以试试吗？",
+        "wǒ kě yǐ shì shi ma?",
+        "Tôi có thể thử không?"
+    ],
+    [
+        "我要这个颜色",
+        "wǒ yào zhè ge yán sè",
+        "Tôi muốn màu này",
+        "我要这个颜色",
+        "wǒ yào zhè ge yán sè",
+        "Tôi muốn màu này"
+    ],
+    [
+        "太小了",
+        "tài xiǎo le",
+        "Nhỏ quá",
+        "太小了",
+        "tài xiǎo le",
+        "Nhỏ quá"
+    ],
+    [
+        "太大了",
+        "tài dà le",
+        "To quá",
+        "太大了",
+        "tài dà le",
+        "To quá"
+    ],
+    [
+        "我要付现金",
+        "wǒ yào fù xiàn jīn",
+        "Tôi muốn trả bằng tiền mặt",
+        "我要付现金",
+        "wǒ yào fù xiàn jīn",
+        "Tôi muốn trả bằng tiền mặt"
+    ]
+]

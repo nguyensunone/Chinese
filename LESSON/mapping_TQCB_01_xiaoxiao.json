@@ -1,0 +1,802 @@
+[
+    {
+        "text": "你好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_1_col0.mp3"
+    },
+    {
+        "text": "你好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_1_col3.mp3"
+    },
+    {
+        "text": "早上好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_2_col0.mp3"
+    },
+    {
+        "text": "早上好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_2_col3.mp3"
+    },
+    {
+        "text": "晚上好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_3_col0.mp3"
+    },
+    {
+        "text": "晚上好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_3_col3.mp3"
+    },
+    {
+        "text": "你好吗？",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_4_col0.mp3"
+    },
+    {
+        "text": "你好吗？",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_4_col3.mp3"
+    },
+    {
+        "text": "我很好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_5_col0.mp3"
+    },
+    {
+        "text": "我很好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_5_col3.mp3"
+    },
+    {
+        "text": "谢谢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_6_col0.mp3"
+    },
+    {
+        "text": "谢谢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_6_col3.mp3"
+    },
+    {
+        "text": "不客气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_7_col0.mp3"
+    },
+    {
+        "text": "不客气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_7_col3.mp3"
+    },
+    {
+        "text": "对不起",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_8_col0.mp3"
+    },
+    {
+        "text": "对不起",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_8_col3.mp3"
+    },
+    {
+        "text": "没关系",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_9_col0.mp3"
+    },
+    {
+        "text": "没关系",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_9_col3.mp3"
+    },
+    {
+        "text": "再见",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_10_col0.mp3"
+    },
+    {
+        "text": "再见",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_10_col3.mp3"
+    },
+    {
+        "text": "爸爸",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_11_col0.mp3"
+    },
+    {
+        "text": "爸爸",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_11_col3.mp3"
+    },
+    {
+        "text": "妈妈",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_12_col0.mp3"
+    },
+    {
+        "text": "妈妈",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_12_col3.mp3"
+    },
+    {
+        "text": "哥哥",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_13_col0.mp3"
+    },
+    {
+        "text": "哥哥",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_13_col3.mp3"
+    },
+    {
+        "text": "姐姐",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_14_col0.mp3"
+    },
+    {
+        "text": "姐姐",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_14_col3.mp3"
+    },
+    {
+        "text": "弟弟",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_15_col0.mp3"
+    },
+    {
+        "text": "弟弟",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_15_col3.mp3"
+    },
+    {
+        "text": "妹妹",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_16_col0.mp3"
+    },
+    {
+        "text": "妹妹",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_16_col3.mp3"
+    },
+    {
+        "text": "爷爷",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_17_col0.mp3"
+    },
+    {
+        "text": "爷爷",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_17_col3.mp3"
+    },
+    {
+        "text": "奶奶",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_18_col0.mp3"
+    },
+    {
+        "text": "奶奶",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_18_col3.mp3"
+    },
+    {
+        "text": "叔叔",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_19_col0.mp3"
+    },
+    {
+        "text": "叔叔",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_19_col3.mp3"
+    },
+    {
+        "text": "阿姨",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_20_col0.mp3"
+    },
+    {
+        "text": "阿姨",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_20_col3.mp3"
+    },
+    {
+        "text": "一",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_21_col0.mp3"
+    },
+    {
+        "text": "一",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_21_col3.mp3"
+    },
+    {
+        "text": "二",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_22_col0.mp3"
+    },
+    {
+        "text": "二",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_22_col3.mp3"
+    },
+    {
+        "text": "三",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_23_col0.mp3"
+    },
+    {
+        "text": "三",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_23_col3.mp3"
+    },
+    {
+        "text": "四",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_24_col0.mp3"
+    },
+    {
+        "text": "四",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_24_col3.mp3"
+    },
+    {
+        "text": "五",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_25_col0.mp3"
+    },
+    {
+        "text": "五",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_25_col3.mp3"
+    },
+    {
+        "text": "六",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_26_col0.mp3"
+    },
+    {
+        "text": "六",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_26_col3.mp3"
+    },
+    {
+        "text": "七",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_27_col0.mp3"
+    },
+    {
+        "text": "七",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_27_col3.mp3"
+    },
+    {
+        "text": "八",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_28_col0.mp3"
+    },
+    {
+        "text": "八",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_28_col3.mp3"
+    },
+    {
+        "text": "九",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_29_col0.mp3"
+    },
+    {
+        "text": "九",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_29_col3.mp3"
+    },
+    {
+        "text": "十",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_30_col0.mp3"
+    },
+    {
+        "text": "十",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_30_col3.mp3"
+    },
+    {
+        "text": "今天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_31_col0.mp3"
+    },
+    {
+        "text": "今天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_31_col3.mp3"
+    },
+    {
+        "text": "昨天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_32_col0.mp3"
+    },
+    {
+        "text": "昨天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_32_col3.mp3"
+    },
+    {
+        "text": "明天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_33_col0.mp3"
+    },
+    {
+        "text": "明天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_33_col3.mp3"
+    },
+    {
+        "text": "星期一",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_34_col0.mp3"
+    },
+    {
+        "text": "星期一",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_34_col3.mp3"
+    },
+    {
+        "text": "星期天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_35_col0.mp3"
+    },
+    {
+        "text": "星期天",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_35_col3.mp3"
+    },
+    {
+        "text": "上午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_36_col0.mp3"
+    },
+    {
+        "text": "上午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_36_col3.mp3"
+    },
+    {
+        "text": "中午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_37_col0.mp3"
+    },
+    {
+        "text": "中午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_37_col3.mp3"
+    },
+    {
+        "text": "下午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_38_col0.mp3"
+    },
+    {
+        "text": "下午",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_38_col3.mp3"
+    },
+    {
+        "text": "晚上",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_39_col0.mp3"
+    },
+    {
+        "text": "晚上",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_39_col3.mp3"
+    },
+    {
+        "text": "现在",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_40_col0.mp3"
+    },
+    {
+        "text": "现在",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_40_col3.mp3"
+    },
+    {
+        "text": "红色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_41_col0.mp3"
+    },
+    {
+        "text": "红色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_41_col3.mp3"
+    },
+    {
+        "text": "蓝色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_42_col0.mp3"
+    },
+    {
+        "text": "蓝色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_42_col3.mp3"
+    },
+    {
+        "text": "绿色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_43_col0.mp3"
+    },
+    {
+        "text": "绿色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_43_col3.mp3"
+    },
+    {
+        "text": "黄色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_44_col0.mp3"
+    },
+    {
+        "text": "黄色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_44_col3.mp3"
+    },
+    {
+        "text": "黑色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_45_col0.mp3"
+    },
+    {
+        "text": "黑色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_45_col3.mp3"
+    },
+    {
+        "text": "白色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_46_col0.mp3"
+    },
+    {
+        "text": "白色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_46_col3.mp3"
+    },
+    {
+        "text": "粉红色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_47_col0.mp3"
+    },
+    {
+        "text": "粉红色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_47_col3.mp3"
+    },
+    {
+        "text": "橙色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_48_col0.mp3"
+    },
+    {
+        "text": "橙色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_48_col3.mp3"
+    },
+    {
+        "text": "紫色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_49_col0.mp3"
+    },
+    {
+        "text": "紫色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_49_col3.mp3"
+    },
+    {
+        "text": "灰色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_50_col0.mp3"
+    },
+    {
+        "text": "灰色",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_50_col3.mp3"
+    },
+    {
+        "text": "吃",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_51_col0.mp3"
+    },
+    {
+        "text": "吃",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_51_col3.mp3"
+    },
+    {
+        "text": "喝",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_52_col0.mp3"
+    },
+    {
+        "text": "喝",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_52_col3.mp3"
+    },
+    {
+        "text": "走",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_53_col0.mp3"
+    },
+    {
+        "text": "走",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_53_col3.mp3"
+    },
+    {
+        "text": "来",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_54_col0.mp3"
+    },
+    {
+        "text": "来",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_54_col3.mp3"
+    },
+    {
+        "text": "去",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_55_col0.mp3"
+    },
+    {
+        "text": "去",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_55_col3.mp3"
+    },
+    {
+        "text": "看",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_56_col0.mp3"
+    },
+    {
+        "text": "看",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_56_col3.mp3"
+    },
+    {
+        "text": "听",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_57_col0.mp3"
+    },
+    {
+        "text": "听",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_57_col3.mp3"
+    },
+    {
+        "text": "说",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_58_col0.mp3"
+    },
+    {
+        "text": "说",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_58_col3.mp3"
+    },
+    {
+        "text": "写",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_59_col0.mp3"
+    },
+    {
+        "text": "写",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_59_col3.mp3"
+    },
+    {
+        "text": "读",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_60_col0.mp3"
+    },
+    {
+        "text": "读",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_60_col3.mp3"
+    },
+    {
+        "text": "大",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_61_col0.mp3"
+    },
+    {
+        "text": "大",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_61_col3.mp3"
+    },
+    {
+        "text": "小",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_62_col0.mp3"
+    },
+    {
+        "text": "小",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_62_col3.mp3"
+    },
+    {
+        "text": "高",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_63_col0.mp3"
+    },
+    {
+        "text": "高",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_63_col3.mp3"
+    },
+    {
+        "text": "矮",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_64_col0.mp3"
+    },
+    {
+        "text": "矮",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_64_col3.mp3"
+    },
+    {
+        "text": "快",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_65_col0.mp3"
+    },
+    {
+        "text": "快",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_65_col3.mp3"
+    },
+    {
+        "text": "慢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_66_col0.mp3"
+    },
+    {
+        "text": "慢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_66_col3.mp3"
+    },
+    {
+        "text": "热",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_67_col0.mp3"
+    },
+    {
+        "text": "热",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_67_col3.mp3"
+    },
+    {
+        "text": "冷",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_68_col0.mp3"
+    },
+    {
+        "text": "冷",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_68_col3.mp3"
+    },
+    {
+        "text": "新",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_69_col0.mp3"
+    },
+    {
+        "text": "新",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_69_col3.mp3"
+    },
+    {
+        "text": "旧",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_70_col0.mp3"
+    },
+    {
+        "text": "旧",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_70_col3.mp3"
+    },
+    {
+        "text": "你好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_71_col0.mp3"
+    },
+    {
+        "text": "你好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_71_col3.mp3"
+    },
+    {
+        "text": "你好吗？",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_72_col0.mp3"
+    },
+    {
+        "text": "你好吗？",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_72_col3.mp3"
+    },
+    {
+        "text": "我很好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_73_col0.mp3"
+    },
+    {
+        "text": "我很好",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_73_col3.mp3"
+    },
+    {
+        "text": "谢谢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_74_col0.mp3"
+    },
+    {
+        "text": "谢谢",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_74_col3.mp3"
+    },
+    {
+        "text": "不客气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_75_col0.mp3"
+    },
+    {
+        "text": "不客气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_75_col3.mp3"
+    },
+    {
+        "text": "对不起",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_76_col0.mp3"
+    },
+    {
+        "text": "对不起",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_76_col3.mp3"
+    },
+    {
+        "text": "没关系",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_77_col0.mp3"
+    },
+    {
+        "text": "没关系",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_77_col3.mp3"
+    },
+    {
+        "text": "请",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_78_col0.mp3"
+    },
+    {
+        "text": "请",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_78_col3.mp3"
+    },
+    {
+        "text": "再见",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_79_col0.mp3"
+    },
+    {
+        "text": "再见",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_79_col3.mp3"
+    },
+    {
+        "text": "是的",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_80_col0.mp3"
+    },
+    {
+        "text": "是的",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_80_col3.mp3"
+    },
+    {
+        "text": "书",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_81_col0.mp3"
+    },
+    {
+        "text": "书",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_81_col3.mp3"
+    },
+    {
+        "text": "笔",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_82_col0.mp3"
+    },
+    {
+        "text": "笔",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_82_col3.mp3"
+    },
+    {
+        "text": "椅子",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_83_col0.mp3"
+    },
+    {
+        "text": "椅子",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_83_col3.mp3"
+    },
+    {
+        "text": "桌子",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_84_col0.mp3"
+    },
+    {
+        "text": "桌子",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_84_col3.mp3"
+    },
+    {
+        "text": "黑板",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_85_col0.mp3"
+    },
+    {
+        "text": "黑板",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_85_col3.mp3"
+    },
+    {
+        "text": "教室",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_86_col0.mp3"
+    },
+    {
+        "text": "教室",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_86_col3.mp3"
+    },
+    {
+        "text": "包",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_87_col0.mp3"
+    },
+    {
+        "text": "包",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_87_col3.mp3"
+    },
+    {
+        "text": "窗户",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_88_col0.mp3"
+    },
+    {
+        "text": "窗户",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_88_col3.mp3"
+    },
+    {
+        "text": "门",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_89_col0.mp3"
+    },
+    {
+        "text": "门",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_89_col3.mp3"
+    },
+    {
+        "text": "灯",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_90_col0.mp3"
+    },
+    {
+        "text": "灯",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_90_col3.mp3"
+    },
+    {
+        "text": "高兴",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_91_col0.mp3"
+    },
+    {
+        "text": "高兴",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_91_col3.mp3"
+    },
+    {
+        "text": "难过",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_92_col0.mp3"
+    },
+    {
+        "text": "难过",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_92_col3.mp3"
+    },
+    {
+        "text": "生气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_93_col0.mp3"
+    },
+    {
+        "text": "生气",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_93_col3.mp3"
+    },
+    {
+        "text": "累",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_94_col0.mp3"
+    },
+    {
+        "text": "累",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_94_col3.mp3"
+    },
+    {
+        "text": "紧张",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_95_col0.mp3"
+    },
+    {
+        "text": "紧张",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_95_col3.mp3"
+    },
+    {
+        "text": "害怕",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_96_col0.mp3"
+    },
+    {
+        "text": "害怕",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_96_col3.mp3"
+    },
+    {
+        "text": "兴奋",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_97_col0.mp3"
+    },
+    {
+        "text": "兴奋",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_97_col3.mp3"
+    },
+    {
+        "text": "无聊",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_98_col0.mp3"
+    },
+    {
+        "text": "无聊",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_98_col3.mp3"
+    },
+    {
+        "text": "满意",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_99_col0.mp3"
+    },
+    {
+        "text": "满意",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_99_col3.mp3"
+    },
+    {
+        "text": "惊讶",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_100_col0.mp3"
+    },
+    {
+        "text": "惊讶",
+        "file": "audio_TQCB_01_xiaoxiao/audio_TQCB_01_100_col3.mp3"
+    }
+]
